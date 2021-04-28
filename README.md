@@ -1,1 +1,1 @@
-jenkins test
+jenkins auto build test 
